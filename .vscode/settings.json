@@ -1,0 +1,52 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.askCompileResult": true,
+    "advpl.environments": [
+        {
+            "smartClientPath": "C:rotheus_12_1_23rotheus\binmartClient\\",
+            "environment": "DEV",
+            "includeList": "C:rotheus_12_1_23rotheusnclude\\",
+            "server": "LOCALHOST",
+            "port": "1236",
+            "user": "ADMIN",
+            "passwordCipher": "aDhGcW5lSFdzQkRaR0xKYnFKSkw3OU5rNXFZM204TEZyUFZzcVB4dXZ6QWZoWkZoOFQvWjl5NUE0YUxOL0RUV2pFRVl6SXR3VHV5SzQ0dXA5czBpSEtGbUNjWEN3K0RTRkp3MXN5UXR1OFRFSHQyQk5LR1NBRHNIcEc2cXR0ZU0="
+        },
+        {
+            "environment": "PRODUCAO",
+            "name": "PRODUCAO",
+            "server": "localhost",
+            "port": "1301",
+            "serverVersion": "170117A",
+            "passwordCipher": "d2ZuTnRqM2tjekQ0dkNpc0J6L1pvSlRFY0gvdWpPSUhZRjQ0eWFHYjltd2VzeUtNb2VGMXV4Wmw0QUtIK29SOHlWS3QzWDZkUmxvRCtyK3ZDV05VSVJpNWxmakhUNGdFZmJELzVDRnVkemdURzlieGpqamZYOTZYWW5ERlNGc0o=",
+            "includeList": "c:\\Totvs\\Protheus12\\Bin\\SMARTCLIENT64\\",
+            "user": "ADMIN",
+            "smartClientPath": "c:\\Totvs\\Protheus12\\Bin\\SMARTCLIENT64",
+            "enable": true
+        },
+        {
+            "environment": "padrao",
+            "name": "padrao",
+            "server": "localhost",
+            "port": "1234",
+            "serverVersion": "170117A",
+            "passwordCipher": "dWxzUTVybGoydkZmNmwyUTFIYlI2WXNzd3ZLeG1hWS9XYnB3R0NtblpoYjdCSUREWHVEM1VKSzFVVlJlSnlBaU5TVHFyRk1GbElwc01vL3NXR0VwRmg2RkdDR1NJSU5KTEU5cW5tMnlNWjljcFUyVXdjTWE4emtsQ2k1NEZPNGw=",
+            "includeList": "c:\\Totvs\\P12\\padrao\\Protheus\\bin\\smartclient\\",
+            "user": "Admin",
+            "smartClientPath": "c:\\Totvs\\P12\\padrao\\Protheus\\bin\\smartclient",
+            "enable": true
+        },
+        {
+            "environment": "padrao",
+            "name": "12_1_16",
+            "server": "localhost",
+            "port": "",
+            "serverVersion": "170117A",
+            "passwordCipher": "clZJUDNQVm54R0lJbUFTUmxzdUV2NzVGenYvc2ErWHhWcEJ6cjJYUGJ1SDd5bERrS2IrdmNCMWo1RmFoQlFqa21rMnBON3dmWElNZ3NjemxEanNvQlhpYm5CdnVKOGRFMU16SkQ2R2duRlNJU2hLL2xERHZSOUhQVklMS2hJOXk=",
+            "includeList": "c:\\Totvs\\P12\\padrao\\Protheus\\bin\\smartclient\\",
+            "user": "Admin",
+            "smartClientPath": "c:\\Totvs\\P12\\padrao\\Protheus\\bin\\smartclient",
+            "enable": true
+        }
+    ],
+    "advpl.selectedEnvironment": "PRODUCAO"
+}

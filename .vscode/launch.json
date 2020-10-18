@@ -1,0 +1,99 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Totvs Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\Protheus_12_1_23\\Protheus\\bin\\SmartClient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true,
+			"serverItem": "Local2",
+			"environment": "producao"
+		}
+	],
+	"lastPrograms": [
+		{
+			"args": [],
+			"label": "U_DOCASE",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_while",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_whilecp",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_avetor",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_avetor2",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_bloco",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_banco001",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_FTESTE",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_CALCULADORA",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "U_banco003",
+			"description": ""
+		},
+		{
+			"args": [
+				"()"
+			],
+			"label": "U_DEBUG01",
+			"description": "()"
+		},
+		{
+			"args": [],
+			"label": "U_DEBUG01",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "SIGAMDI",
+			"description": ""
+		},
+		{
+			"args": [
+				" ()"
+			],
+			"label": "U_DEBUG01",
+			"description": " ()"
+		},
+		{
+			"args": [],
+			"label": "U_reltxt",
+			"description": ""
+		}
+	],
+	"lastProgramExecuted": "U_reltxt"
+}
